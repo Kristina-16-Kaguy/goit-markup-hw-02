@@ -8,7 +8,7 @@ body {
 
 .header-logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 18px;
 
   /* line-height: 21px; */
@@ -106,7 +106,7 @@ body {
 
 /* FEATURES */
 
-.features-list {
+.features-item {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -138,7 +138,7 @@ body {
   background-color: #f4f4fd;
   text-transform: capitalize;
 }
-.team-list {
+.team-list-item {
   background-color: #ffffff;
 }
 
@@ -156,7 +156,7 @@ body {
 
 .team-member {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 20px;
 
   /* line-height: 24px; */
