@@ -64,9 +64,10 @@ body {
   color: #404bbf;
 }
 
-address {
+.header-adress {
   font-style: normal;
 }
+
 /* HERO */
 
 .hero {
@@ -98,7 +99,8 @@ address {
   cursor: pointer;
 }
 
-.hero-btn:hover {
+.hero-btn:hover,
+.hero-btn:focus {
   background: #404bbf;
 }
 
